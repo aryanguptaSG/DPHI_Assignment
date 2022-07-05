@@ -1,0 +1,86 @@
+.hackthon_header{
+    height: 300px;
+    background-color: #043145;
+    padding-left: 10%;
+    padding-top: 60px;
+    color: #ffffff;
+}
+
+.hackthon_time{
+    background-color: #fdce5c;
+    padding: 2px 40px;
+    border-radius: 5px;
+    width: fit-content;
+    color: #000;
+}
+
+.hackthon_header h3{
+    font-size: 2rem;
+    margin-block: 20px;
+}
+
+.hackthon_header h3{
+    font-size: 2rem;
+    margin-block: 30px;
+}
+
+
+.hackthon_level{
+    margin-block: 40px;
+    background-color: #fff;
+    padding: 2px 15px;
+    width: 100px;
+    color: #043145;
+    font-weight: bold;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hackthon_actionbar{
+    height: 50px;
+    box-shadow: 0px 1px 20px 0px rgba(0,0,0,0.2);
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 10%;
+    align-items: flex-end;
+}
+
+.hackthon_actionbar button{
+    margin-inline: 20px;
+    margin-block: 10px;
+    padding: 3px 15px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.edit-btn{
+    border: none;
+    background-color: #44924d;
+    color: #ffffff;
+}
+
+.delete-btn{
+    background: none;
+    border: 2px solid red;
+    color: red;
+}
+
+.hackthon_overview{
+    padding: 10px;
+    border-bottom: 3px solid #61a26b;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+
+
+.hackthon_desc{
+    margin-top: 30px;
+    padding-inline: 10%;
+    padding-right: 20%;
+    text-align: left;
+    font-size: 1.2rem;
+}
